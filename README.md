@@ -1,2 +1,2 @@
 # Git Test
-- bug fixed
+- Bug fixed
